@@ -1,0 +1,595 @@
+c:\users\ngocdiem\documents\visual studio 2013\Projects\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+c:\users\ngocdiem\documents\visual studio 2013\Projects\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+c:\users\ngocdiem\documents\visual studio 2013\Projects\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Login.resources
+c:\users\ngocdiem\documents\visual studio 2013\Projects\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+c:\users\ngocdiem\documents\visual studio 2013\Projects\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+c:\users\ngocdiem\documents\visual studio 2013\Projects\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+c:\users\ngocdiem\documents\visual studio 2013\Projects\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+c:\users\ngocdiem\documents\visual studio 2013\Projects\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+c:\users\ngocdiem\documents\visual studio 2013\Projects\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+c:\users\ngocdiem\documents\visual studio 2013\Projects\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.dll
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.xml
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Mainform.resources
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.dll
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.xml
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Mainform.resources
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDanhMucSach.resources
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDanhMucSinhVien.resources
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinh.resources
+D:\Slide and Theory\3 Semester\Information system analysis  and design\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmMuonSach.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.dll
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.xml
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDanhMucSach.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDanhMucSinhVien.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmMuonSach.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Sachdangmuon.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSVTracuu_Sach_Chude.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSVTracuu_Sach_tinhtrang.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_danhsachhangcho.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Form1.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.dll
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.xml
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Form1.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_danhsachhangcho.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Sachdangmuon.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSVTracuu_Sach_Chude.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSVTracuu_Sach_tinhtrang.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\NgocDiem\Desktop\Quanlythuvien - Copy\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.dll
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.xml
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Form1.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_danhsachhangcho.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Sachdangmuon.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSVTracuu_Sach_Chude.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSVTracuu_Sach_tinhtrang.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(main)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Form1.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_danhsachhangcho.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Sachdangmuon.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSVTracuu_Sach_Chude.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlNV_DanhMucSach.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Quanlythuvien(updating)\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSVTracuu_Sach_Ten.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.dtngaysinh.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_NVDanhMucSach.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_NV_DanhMucSinhVien.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_NV_Giaosach.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_danhsachhangcho.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Sachdangmuon.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SVTracuu_Sach_Chude.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SVTracuu_Sach_Ten.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThemsach.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmhoadonphat.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_NVTrasach.resources
+C:\Users\NgocDiem\Documents\Visual Studio 2013\Projects\Librarymanagement\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmhoadonphat.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThemsach.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.dtngaysinh.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_NVDanhMucSach.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_NVTrasach.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_NV_DanhMucSinhVien.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_NV_Giaosach.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_Danhsachhangcho.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Sachdangmuon.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SVTracuu_Sach_Chude.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SVTracuu_Sach_Ten.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\bin\Debug\EntityFramework.dll
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\bin\Debug\EntityFramework.xml
+C:\Users\thebienpro nguyen\Desktop\FINAL\Quanlythuvien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHoadonphat.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThemsach.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSach.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSinhVien.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Giaosach.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Trasach.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Danhsachhangcho.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Sachdangmuon.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Chude.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Ten.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Thongtinvipham.resources
+C:\Users\NgocDiem\Downloads\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmthemsinhvien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHoadonphat.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThemsach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmthemsinhvien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSinhVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Giaosach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Trasach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Danhsachhangcho.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Sachdangmuon.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Thongtinvipham.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Chude.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Ten.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themcuonsach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themgaysach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Thongtinchitietgaysach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachSinhVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHoadonphat.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThemsach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmthemsinhvien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachSinhVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSinhVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Giaosach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Trasach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Danhsachhangcho.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Sachdangmuon.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Thongtinvipham.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Ten.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themcuonsach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themgaysach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Thongtinchitietgaysach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\FINALfixed\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHoadonphat.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThemsach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmthemsinhvien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachSinhVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSinhVien.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Giaosach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Trasach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Danhsachhangcho.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Sachdangmuon.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Thongtinvipham.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Ten.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themcuonsach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themgaysach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Thongtinchitietgaysach.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\Administrator\Downloads\FINALfixed\FINALfixed\FINAL\DIEM\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHoadonphat.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmthemsinhvien.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSach.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachSinhVien.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSinhVien.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Giaosach.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Trasach.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Danhsachhangcho.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Sachdangmuon.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Thongtinvipham.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Ten.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themcuonsach.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themgaysach.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Thongtinchitietgaysach.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\NgocDiem\Desktop\DIEM_2\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\NgocDiem\Desktop\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\NgocDiem\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\NgocDiem\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHoadonphat.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmthemsinhvien.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeMuonTra.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeSach.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSach.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachSinhVien.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSinhVien.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Giaosach.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Trasach.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Danhsachhangcho.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Sachdangmuon.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Thongtinvipham.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Ten.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themcuonsach.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themgaysach.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Thongtinchitietgaysach.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\RdlCompile.cache
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\RdlCompile.compiled
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmVeChungToi.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Resource1.resources
+D:\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+D:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+D:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\quanlythuvien_1\Quanlythuvien\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHoadonphat.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmthemsinhvien.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeMuonTra.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeSach.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmVeChungToi.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSach.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachSinhVien.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSinhVien.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Giaosach.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Trasach.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Danhsachhangcho.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Sachdangmuon.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Thongtinvipham.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Ten.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themcuonsach.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themgaysach.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Thongtinchitietgaysach.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Resource1.resources
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\RdlCompile.cache
+E:\quanlythuvien_1\Quanlythuvien\obj\Debug\RdlCompile.compiled
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHoadonphat.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmthemsinhvien.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeMuonTra.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeSach.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmVeChungToi.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSach.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachSinhVien.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSinhVien.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Giaosach.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Trasach.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Danhsachhangcho.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Sachdangmuon.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Thongtinvipham.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Ten.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themcuonsach.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themgaysach.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Thongtinchitietgaysach.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Resource1.resources
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\RdlCompile.cache
+C:\Users\thebienpro nguyen\Videos\quanlythuvien_1\Quanlythuvien\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHoadonphat.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmthemsinhvien.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeMuonTra.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeSach.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmVeChungToi.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSach.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachSinhVien.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSinhVien.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Giaosach.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Trasach.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Danhsachhangcho.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Sachdangmuon.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Thongtinvipham.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Ten.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themcuonsach.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themgaysach.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Thongtinchitietgaysach.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Resource1.resources
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\bin\Debug\System.Data.SqlLocalDb.dll
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\bin\Debug\System.Data.SqlLocalDb.xml
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\bin\Debug\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\Administrator\Desktop\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.WaitForm.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\bin\Debug\System.Data.SqlLocalDb.dll
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\bin\Debug\System.Data.SqlLocalDb.xml
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\bin\Debug\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHoadonphat.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmthemsinhvien.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeMuonTra.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeSach.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmVeChungToi.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSach.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachSinhVien.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSinhVien.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Giaosach.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Trasach.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Danhsachhangcho.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Sachdangmuon.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Thongtinvipham.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Ten.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themcuonsach.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themgaysach.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Thongtinchitietgaysach.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.WaitForm.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Resource1.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachDangMuon.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHuongDanSuDung.resources
+C:\Users\Administrator\Downloads\quanlythuvien_1\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\bin\Debug\System.Data.SqlLocalDb.dll
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\bin\Debug\System.Data.SqlLocalDb.xml
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\bin\Debug\en-GB\System.Data.SqlLocalDb.resources.dll
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHuongDanSuDung.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachDangMuon.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmDangNhap.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmHoadonphat.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManHinhChinhNhanVien.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmManhinhchinhSinhVien.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThaydoimatkhau.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmthemsinhvien.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeMuonTra.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmThongKeSach.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.frmVeChungToi.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSach.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSachSinhVien.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_DanhMucSinhVien.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Giaosach.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.NV_Trasach.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Danhsachhangcho.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UserControlSV_Thongtincanhan.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.UC_SV_Qui_định.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Sachdangmuon.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Thongtinvipham.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.SV_Tracuu_Sach_Ten.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themcuonsach.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Themgaysach.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.Thongtinchitietgaysach.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Forms.WaitForm.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.Resource1.resources
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+D:\1. STUDY\kì 4\phân tích thiết kế HTTT\Nhom7_14521100_15520048_15520062_15520115\Database + Source code\2. Source code\Quanlythuvien\obj\Debug\Quanlythuvien.exe.licenses

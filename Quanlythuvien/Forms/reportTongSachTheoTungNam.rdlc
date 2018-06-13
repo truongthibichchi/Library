@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Body>
+    <ReportItems>
+      <Chart Name="Chart1">
+        <ChartCategoryHierarchy>
+          <ChartMembers>
+            <ChartMember>
+              <Group Name="Chart1_CategoryGroup">
+                <GroupExpressions>
+                  <GroupExpression>=Fields!NAM.Value</GroupExpression>
+                </GroupExpressions>
+              </Group>
+              <SortExpressions>
+                <SortExpression>
+                  <Value>=Fields!NAM.Value</Value>
+                </SortExpression>
+              </SortExpressions>
+              <Label>=Fields!NAM.Value</Label>
+            </ChartMember>
+          </ChartMembers>
+        </ChartCategoryHierarchy>
+        <ChartSeriesHierarchy>
+          <ChartMembers>
+            <ChartMember>
+              <Label>TONGSACH</Label>
+            </ChartMember>
+          </ChartMembers>
+        </ChartSeriesHierarchy>
+        <ChartData>
+          <ChartSeriesCollection>
+            <ChartSeries Name="TONGSACH">
+              <ChartDataPoints>
+                <ChartDataPoint>
+                  <ChartDataPointValues>
+                    <Y>=Sum(Fields!TONGSACH.Value)</Y>
+                  </ChartDataPointValues>
+                  <ChartDataLabel>
+                    <Style />
+                    <UseValueAsLabel>true</UseValueAsLabel>
+                    <Visible>true</Visible>
+                  </ChartDataLabel>
+                  <Style />
+                  <ChartMarker>
+                    <Style />
+                  </ChartMarker>
+                  <DataElementOutput>Output</DataElementOutput>
+                </ChartDataPoint>
+              </ChartDataPoints>
+              <Style />
+              <ChartEmptyPoints>
+                <Style />
+                <ChartMarker>
+                  <Style />
+                </ChartMarker>
+                <ChartDataLabel>
+                  <Style />
+                </ChartDataLabel>
+              </ChartEmptyPoints>
+              <ChartItemInLegend>
+                <LegendText>Tổng sách</LegendText>
+              </ChartItemInLegend>
+              <ValueAxisName>Primary</ValueAxisName>
+              <CategoryAxisName>Primary</CategoryAxisName>
+              <ChartSmartLabel>
+                <CalloutLineColor>Black</CalloutLineColor>
+                <MinMovingDistance>0pt</MinMovingDistance>
+              </ChartSmartLabel>
+            </ChartSeries>
+          </ChartSeriesCollection>
+        </ChartData>
+        <ChartAreas>
+          <ChartArea Name="Default">
+            <ChartCategoryAxes>
+              <ChartAxis Name="Primary">
+                <Style>
+                  <FontSize>8pt</FontSize>
+                </Style>
+                <ChartAxisTitle>
+                  <Caption />
+                  <Style>
+                    <FontSize>8pt</FontSize>
+                  </Style>
+                </ChartAxisTitle>
+                <ChartMajorGridLines>
+                  <Enabled>False</Enabled>
+                  <Style>
+                    <Border>
+                      <Color>Gainsboro</Color>
+                    </Border>
+                  </Style>
+                </ChartMajorGridLines>
+                <ChartMinorGridLines>
+                  <Style>
+                    <Border>
+                      <Color>Gainsboro</Color>
+                      <Style>Dotted</Style>
+                    </Border>
+                  </Style>
+                </ChartMinorGridLines>
+                <ChartMinorTickMarks>
+                  <Length>0.5</Length>
+                </ChartMinorTickMarks>
+                <CrossAt>NaN</CrossAt>
+                <Minimum>NaN</Minimum>
+                <Maximum>NaN</Maximum>
+                <ChartAxisScaleBreak>
+                  <Style />
+                </ChartAxisScaleBreak>
+              </ChartAxis>
+              <ChartAxis Name="Secondary">
+                <Style>
+                  <FontSize>8pt</FontSize>
+                </Style>
+                <ChartAxisTitle>
+                  <Caption>Axis Title</Caption>
+                  <Style>
+                    <FontSize>8pt</FontSize>
+                  </Style>
+                </ChartAxisTitle>
+                <ChartMajorGridLines>
+                  <Enabled>False</Enabled>
+                  <Style>
+                    <Border>
+                      <Color>Gainsboro</Color>
+                    </Border>
+                  </Style>
+                </ChartMajorGridLines>
+                <ChartMinorGridLines>
+                  <Style>
+                    <Border>
+                      <Color>Gainsboro</Color>
+                      <Style>Dotted</Style>
+                    </Border>
+                  </Style>
+                </ChartMinorGridLines>
+                <ChartMinorTickMarks>
+                  <Length>0.5</Length>
+                </ChartMinorTickMarks>
+                <CrossAt>NaN</CrossAt>
+                <Location>Opposite</Location>
+                <Minimum>NaN</Minimum>
+                <Maximum>NaN</Maximum>
+                <ChartAxisScaleBreak>
+                  <Style />
+                </ChartAxisScaleBreak>
+              </ChartAxis>
+            </ChartCategoryAxes>
+            <ChartValueAxes>
+              <ChartAxis Name="Primary">
+                <Style>
+                  <FontSize>8pt</FontSize>
+                </Style>
+                <ChartAxisTitle>
+                  <Caption>Cuốn</Caption>
+                  <Style>
+                    <FontSize>8pt</FontSize>
+                  </Style>
+                </ChartAxisTitle>
+                <ChartMajorGridLines>
+                  <Style>
+                    <Border>
+                      <Color>Gainsboro</Color>
+                    </Border>
+                  </Style>
+                </ChartMajorGridLines>
+                <ChartMinorGridLines>
+                  <Style>
+                    <Border>
+                      <Color>Gainsboro</Color>
+                      <Style>Dotted</Style>
+                    </Border>
+                  </Style>
+                </ChartMinorGridLines>
+                <ChartMinorTickMarks>
+                  <Length>0.5</Length>
+                </ChartMinorTickMarks>
+                <CrossAt>NaN</CrossAt>
+                <Minimum>NaN</Minimum>
+                <Maximum>NaN</Maximum>
+                <ChartAxisScaleBreak>
+                  <Style />
+                </ChartAxisScaleBreak>
+              </ChartAxis>
+              <ChartAxis Name="Secondary">
+                <Style>
+                  <FontSize>8pt</FontSize>
+                </Style>
+                <ChartAxisTitle>
+                  <Caption>Axis Title</Caption>
+                  <Style>
+                    <FontSize>8pt</FontSize>
+                  </Style>
+                </ChartAxisTitle>
+                <ChartMajorGridLines>
+                  <Style>
+                    <Border>
+                      <Color>Gainsboro</Color>
+                    </Border>
+                  </Style>
+                </ChartMajorGridLines>
+                <ChartMinorGridLines>
+                  <Style>
+                    <Border>
+                      <Color>Gainsboro</Color>
+                      <Style>Dotted</Style>
+                    </Border>
+                  </Style>
+                </ChartMinorGridLines>
+                <ChartMinorTickMarks>
+                  <Length>0.5</Length>
+                </ChartMinorTickMarks>
+                <CrossAt>NaN</CrossAt>
+                <Location>Opposite</Location>
+                <Minimum>NaN</Minimum>
+                <Maximum>NaN</Maximum>
+                <ChartAxisScaleBreak>
+                  <Style />
+                </ChartAxisScaleBreak>
+              </ChartAxis>
+            </ChartValueAxes>
+            <Style>
+              <BackgroundGradientType>None</BackgroundGradientType>
+            </Style>
+          </ChartArea>
+        </ChartAreas>
+        <ChartLegends>
+          <ChartLegend Name="Default">
+            <Style>
+              <BackgroundGradientType>None</BackgroundGradientType>
+              <FontSize>8pt</FontSize>
+            </Style>
+            <ChartLegendTitle>
+              <Caption />
+              <Style>
+                <FontSize>8pt</FontSize>
+                <FontWeight>Bold</FontWeight>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </ChartLegendTitle>
+            <HeaderSeparatorColor>Black</HeaderSeparatorColor>
+            <ColumnSeparatorColor>Black</ColumnSeparatorColor>
+          </ChartLegend>
+        </ChartLegends>
+        <ChartTitles>
+          <ChartTitle Name="Default">
+            <Caption>Biểu đồ thống kê tổng sách theo từng năm</Caption>
+            <Style>
+              <BackgroundGradientType>None</BackgroundGradientType>
+              <FontWeight>Bold</FontWeight>
+              <TextAlign>General</TextAlign>
+              <VerticalAlign>Top</VerticalAlign>
+            </Style>
+          </ChartTitle>
+        </ChartTitles>
+        <Palette>BrightPastel</Palette>
+        <ChartBorderSkin>
+          <Style>
+            <BackgroundColor>Gray</BackgroundColor>
+            <BackgroundGradientType>None</BackgroundGradientType>
+            <Color>White</Color>
+          </Style>
+        </ChartBorderSkin>
+        <ChartNoDataMessage Name="NoDataMessage">
+          <Caption>No Data Available</Caption>
+          <Style>
+            <BackgroundGradientType>None</BackgroundGradientType>
+            <TextAlign>General</TextAlign>
+            <VerticalAlign>Top</VerticalAlign>
+          </Style>
+        </ChartNoDataMessage>
+        <DataSetName>DataSet1</DataSetName>
+        <Top>0.32292in</Top>
+        <Left>0.75917in</Left>
+        <Height>3.18625in</Height>
+        <Width>4.85417in</Width>
+        <Style>
+          <Border>
+            <Color>LightGrey</Color>
+            <Style>Solid</Style>
+          </Border>
+          <BackgroundColor>White</BackgroundColor>
+          <BackgroundGradientType>None</BackgroundGradientType>
+        </Style>
+      </Chart>
+    </ReportItems>
+    <Height>3.655in</Height>
+    <Style />
+  </Body>
+  <Width>6.73958in</Width>
+  <Page>
+    <LeftMargin>1in</LeftMargin>
+    <RightMargin>1in</RightMargin>
+    <TopMargin>1in</TopMargin>
+    <BottomMargin>1in</BottomMargin>
+    <Style />
+  </Page>
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSet1">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:DataSourceID>abb17d2d-684e-474c-a09f-4ce83668d052</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DataSet1">
+      <Query>
+        <DataSourceName>DataSet1</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="NAM">
+          <DataField>NAM</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="TONGSACH">
+          <DataField>TONGSACH</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+      </Fields>
+      <rd:DataSetInfo>
+        <rd:DataSetName>DataSet1</rd:DataSetName>
+        <rd:SchemaPath>C:\Users\thebienpro nguyen\Desktop\quanlythuvien_1\quanlythuvien_1\Quanlythuvien\Forms\DataSet1.xsd</rd:SchemaPath>
+        <rd:TableName>USP_TKTONGSACHTHEOTUNGNAM</rd:TableName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:TableAdapterName>USP_TKTONGSACHTHEOTUNGNAMTableAdapter</rd:TableAdapterName>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>cff21f8e-c91c-499d-a87b-62b35ea8a267</rd:ReportID>
+</Report>
